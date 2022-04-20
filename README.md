@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <a href="https://github.com/coderxm">  <!--statics主页地址，可修改-->
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=coderxm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>   <!--可修改-->
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yafeng-Soong&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/>   <!--可修改-->
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/coderxm">  <!--热门语言，可修改-->
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=coderxm&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yafeng-Soong&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
   </a>
    <a href="https://https://github.com/coderxm/CNblogs-Theme-NewSakura">  <!--pinned推荐项目,可修改-->
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=coderxm&repo=CNblogs-Theme-NewSakura&theme=algolia"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=yafeng-Soong&repo=blog-exmaple&theme=algolia"/>
   </a>   <!--可修改-->
 </p>
