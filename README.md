@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="https://juejin.cn/user/941657810802839">  <!--热门语言，可修改-->
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yafeng-Soong&layout=compact&langs_count=5&theme=algolia"/>  <!--可修改-->
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yafeng-Soong&layout=compact&langs_count=6&theme=algolia"/>  <!--可修改-->
   </a>
 </p>
