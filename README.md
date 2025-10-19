@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Soong
 
 - 🔭 I’m currently working on microservice field
-- 🌱 I’m currently learning Golang, Gin, gRPC, microservice
+- 🌱 I’m currently learning Golang, Rust, gRPC, microservice
 - Here is my [blog](https://juejin.cn/user/941657810802839)
 <!--
 **yafeng-Soong/yafeng-Soong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
